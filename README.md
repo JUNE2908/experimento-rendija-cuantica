@@ -44,8 +44,8 @@ Experimento de la doble rendija
 
 -Bisturi
 
-
 2. procedimiento:
+   
 1 con la ayuda del bisturí se abrió un hueco pequeño en un lado de la caja, el cual será utilizado para posicionar el puntero laser
 
 2 se tomaron las medidas del otro lado de la caja y se realizo un corte en el centro de este con un ancho y largo determinado para posicionar el aluminio
