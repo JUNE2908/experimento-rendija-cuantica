@@ -30,21 +30,32 @@ BOGOTA D.C., COLOMBIA
 
 
 Experimento de la doble rendija
-1 Materiales: 
+1 Materiales:
+
 -una caja de carton
+
 -Aluminio
+
 -puntero laser 
+
 -una hoja de papel
+
 -cinta adhesive
+
 -Bisturi
 
 
 2. procedimiento:
 1 con la ayuda del bisturí se abrió un hueco pequeño en un lado de la caja, el cual será utilizado para posicionar el puntero laser
+
 2 se tomaron las medidas del otro lado de la caja y se realizo un corte en el centro de este con un ancho y largo determinado para posicionar el aluminio
+
 3 se realizo un corte al aluminio del tamaño del hueco hecho en la caja, posterior en el centro de este trozo se realizaron pequeños cortes de 0.1mm en forma de líneas verticales, este trozo se pego con cinta
+
 4 se tomo la caja y se le taparon todos los huecos con la ayuda de la hoja de papel y la cinta para que se viera mas oscuro
+
 5 se coloco el laser en el hueco designado para este y se apunto hacia la rendija
+
 
 
 
@@ -63,4 +74,4 @@ Por otro lado se hicieron otros experimentos con partículas que llegaron a la m
 Para este experimento se simula un sistema probabilístico con dos rendijas donde se trata de observar un patrón de interferencia que es generado por el paso de la luz del láser a través de las rendijas donde las probabilidades de impacto en el fondo de la caja, estan representadas en la siguiente matriz:
 
 
-fff
+
