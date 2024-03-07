@@ -73,7 +73,11 @@ En resumen la explicación del experimento de la doble rendija se fundamenta en 
 Por otro lado se hicieron otros experimentos con partículas que llegaron a la misma conclusión: estas tenían propiedades de ondas. Esto no era explicable desde el punto de vista de la física clásica, por lo que formaría parte de una gran rama de física moderna, la física cuántica.
 Para este experimento se simula un sistema probabilístico con dos rendijas donde se trata de observar un patrón de interferencia que es generado por el paso de la luz del láser a través de las rendijas donde las probabilidades de impacto en el fondo de la caja, estan representadas en la siguiente matriz:
 
+![matriz](https://github.com/JUNE2908/experimento-rendija-cuantica/blob/main/matrizzzz.jpg?raw=true)
+
 ![codigo](https://github.com/JUNE2908/experimento-rendija-cuantica/blob/7c51b737e04b0f767aaa47b186e0d617c43eb48b/click1.png?raw=true)
+
+![resultado]
 
 
 
