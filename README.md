@@ -80,6 +80,7 @@ el resultado es un vector que dice cuales son las probabilidades de que la parti
 
 ![codigo](https://github.com/JUNE2908/experimento-rendija-cuantica/blob/7c51b737e04b0f767aaa47b186e0d617c43eb48b/click1.png?raw=true)
 
+se puede concluir que la probabilidad mas alta se encuentra en el centro del patron y que las otras probabilidades son iguales 
 
 ![resultado](https://github.com/JUNE2908/experimento-rendija-cuantica/blob/main/Captura-de-pantalla-2023-10-26-a-la-s-12-31-43-a-m.png?raw=true)
 
