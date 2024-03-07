@@ -75,9 +75,13 @@ Para este experimento se simula un sistema probabilístico con dos rendijas dond
 
 ![matriz](https://github.com/JUNE2908/experimento-rendija-cuantica/blob/main/matrizzzz.jpg?raw=true)
 
+para trabajarlo se realizo una implementacion en Python 
+el resultado es un vector que dice cuales son las probabilidades de que la particula esté en cada posición, en dos click de tiempo y es:
+
 ![codigo](https://github.com/JUNE2908/experimento-rendija-cuantica/blob/7c51b737e04b0f767aaa47b186e0d617c43eb48b/click1.png?raw=true)
 
-![resultado]
+
+![resultado](https://github.com/JUNE2908/experimento-rendija-cuantica/blob/main/Captura-de-pantalla-2023-10-26-a-la-s-12-31-43-a-m.png?raw=true)
 
 
 
